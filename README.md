@@ -30,4 +30,4 @@ Hi :wave:    This is Kashyap Kalakbandi :wolf:
 
 :bar_chart: - CSS
 
-:phone: - Andriod 
+:phone: - iphone 
