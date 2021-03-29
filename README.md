@@ -1,4 +1,4 @@
-<center> <h2> Hi :wave:    This is Kashyap Kalakbandi :wolf: </h2></center>
+                                                   <h2> Hi :wave:    This is Kashyap Kalakbandi :wolf: </h2>
 
 <a href="https://dev.to/kashyap_kalakbandi">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="kashyapkbandi's DEV Community Profile" height="30" width="30">
