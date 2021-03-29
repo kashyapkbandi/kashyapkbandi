@@ -41,6 +41,6 @@ When I'm not developing and building things, you can find me on instagram page <
 
 :bar_chart: - CSS
 
-:iphone: - Android 
+:iphone: - (Beginner) Android 
 
 
