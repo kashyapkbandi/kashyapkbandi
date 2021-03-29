@@ -15,7 +15,7 @@ When I'm not developing and building things, you can find me on instagram page <
   </a>
 </div>
 
-
+<hr></hr>
 
 :zap: Salesforce Developer and a :globe_with_meridians: web developer
 
