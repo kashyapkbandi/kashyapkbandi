@@ -10,7 +10,12 @@ When I'm not developing and building things, you can find me on instagram page <
 <a href="https://dev.to/kashyap_kalakbandi">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="kashyapkbandi's DEV Community Profile" height="30" width="30">
 </a>
+  <a href="https://www.instagram.com/game_dev_repeat/">
+  <i class="fab fa-instagram"></i>
+  </a>
 </div>
+
+
 
 :zap: Salesforce Developer and a :globe_with_meridians: web developer
 
