@@ -11,7 +11,7 @@ When I'm not developing and building things, you can find me on instagram page <
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="kashyapkbandi's DEV Community Profile" height="30" width="30">
 </a>
   <a href="https://www.instagram.com/game_dev_repeat/">
-  <i class="fab fa-instagram"></i>
+<i class="fa fa-instagram" style="font-size:48px;color:red"></i>
   </a>
 </div>
 
