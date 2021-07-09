@@ -2,7 +2,7 @@
 
 <p align="center">I am a Salesforce Developer with 4+ years of Experience ,A Computer Science Student ,A Tech and a Huge Game Enthusiast.
 I am passionate about Web Applications,Salesforce Development and Gaming (PC) .
-When I'm not developing and building things, you can find me on instagram page <a href="https://www.instagram.com/the.engineer.says/" rel="nofollow">@the.engineer.says</a>, writing an article on a personal project, explaining  a functionality OR writing a *excited* review on recently played Game. I spend my free time watching tech & game videos and searching random stuff on internet. I spend Majorly working on my personal projects.</p>
+When I'm not developing and building things, you can find me on instagram page <a href="https://www.instagram.com/batman.bandi/" rel="nofollow">@batman.bandi</a>, writing an article on a personal project, explaining  a functionality OR writing a *excited* review on recently played Game. I spend my free time watching tech & game videos and searching random stuff on internet. I spend Majorly working on my personal projects.</p>
 
 
 
