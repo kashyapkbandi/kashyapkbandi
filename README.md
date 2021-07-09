@@ -39,6 +39,8 @@ When I'm not developing and building things, you can find me on instagram page <
 
 :page_with_curl: - NodeJs 
 
+:registered: - React Js
+
 :bar_chart: - CSS
 
 :iphone: - (Beginner) Android 
